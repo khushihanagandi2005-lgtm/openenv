@@ -1,0 +1,5 @@
+{
+  "name": "OpenEnv: Smart Home HEMS",
+  "description": "A real-world reinforcement learning environment for Smart Home Energy Management, featuring a standard step/reset/state API.",
+  "requestFramePermissions": []
+}
